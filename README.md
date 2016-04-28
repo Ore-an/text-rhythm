@@ -2,6 +2,7 @@ Rhythm analyzer
 ====================
 
 This project attempts to analyze the rhythm of prose through the use of a machine learning algorithm.
+Uses Python and the NLTK library.
 
 Text conversion
 ------------------
